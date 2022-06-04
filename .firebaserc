@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chat-app-d1e95": {
+      "hosting": {
+        "base-chat": [
+          "chat-app-d1e95"
+        ]
+      }
+    }
+  }
+}
