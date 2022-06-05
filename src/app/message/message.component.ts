@@ -12,6 +12,7 @@ export class MessageComponent implements OnInit {
   public userName: string;
   public messageContent: string;
   public timeStamp: Date = new Date();
+  public isOwnMessage: boolean;
 
   @Input() chatMessage: ChatMessage;
 
